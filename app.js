@@ -27,7 +27,7 @@ function pesquisar() {
       resultados += `
 <div class="item-resultado">
           <h2>
-            <a href="${dado.link}">${dado.titulo}</a>
+            <a href="${dado.link}" target="_blank">${dado.titulo}</a>
           </h2>
           <p class="descricao-meta">
             ${dado.descricao}
@@ -41,7 +41,7 @@ function pesquisar() {
               <p class="gorduras">Gorduras: ${dado.gorduras}</p>
               <p class="fibra">Fibra: ${dado.fibra}</p>
               <p class="indice-glicemico">Índice glicêmico: ${dado.indice}</p>
-              <a href="${dado.link}">Conheça mais</a>
+              <a href="${dado.link}" target="_blank">Conheça mais</a>
             </div>
 
             <div class="right">
