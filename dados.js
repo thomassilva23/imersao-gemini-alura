@@ -9,7 +9,7 @@ let dados = [
     gorduras: "0,3g",
     fibra: "0,4g",
     indice: "Alto",
-    link: "https://pt.wikipedia.org/wiki/Arroz_branco#:~:text=Arroz%20branco%20é%20o%20arroz,uma%20aparência%20brilhante%20e%20branca.",
+    link: "https://pt.wikipedia.org/wiki/Arroz_branco",
     tags: "carboidrato carboidratos",
     imagem:
       "https://acdn.mitiendanube.com/stores/002/491/154/products/arroz_branco1-b287f0fb1f275d988a16769185991739-640-0.jpg",
@@ -57,7 +57,7 @@ let dados = [
     link: "https://pt.wikipedia.org/wiki/Frango",
     tags: "proteína proteínas proteina proteina carne carnes",
     imagem:
-      "https://www.sabornamesa.com.br/wp-content/uploads/2019/02/peito-de-frango-grelhado-1.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Fn49WMXzSWsVMC4YLIHjyevB8rTnetGY7umZkXrV_JvnPiT5siiNL6tJqtQeABKdmwU&usqp=CAU",
   },
   {
     titulo: "Alcatra",
@@ -72,7 +72,7 @@ let dados = [
     link: "https://pt.wikipedia.org/wiki/Alcatra",
     tags: "proteína proteínas proteina proteina carne carnes",
     imagem:
-      "https://encrypted-tbn0.gstatic.com/images?q=frutas?q=tbn:ANd9GcRmNZEeQSt9oCD2rL8kY4HC3p6F-pg3itqoDw&s",
+      "https://loja.srfilet.com.br/cdn/shop/products/SrFilet-10_700x700.jpg?v=1620239410",
   },
   {
     titulo: "Pernil suíno",
@@ -87,7 +87,7 @@ let dados = [
     link: "https://pt.wikipedia.org/wiki/Pernil",
     tags: "proteína proteínas proteina proteina carne carnes",
     imagem:
-      "https://www.sabornamesa.com.br/wp-content/uploads/2019/02/peito-de-frango-grelhado-1.jpg", // Substitua pela imagem correta
+      "https://cheiadesegredos.com.br/wp-content/uploads/2022/04/Pernil-assado-na-churrasqueira-a-bafo-Divulgacao-Rede-Oba-scaled.jpg",
   },
   {
     titulo: "Banana caturra",
@@ -102,7 +102,7 @@ let dados = [
     link: "https://pt.wikipedia.org/wiki/Banana",
     tags: "carboidratos carboidrato fruta frutas",
     imagem:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmNZEeQSt9oDw&s", // Substitua pela imagem correta
+      "https://cdn.awsli.com.br/600x450/18/18885/produto/102523124/6ba7072878.jpg",
   },
   {
     titulo: "Maçã gala",
@@ -117,7 +117,7 @@ let dados = [
     link: "https://pt.wikipedia.org/wiki/Maçã",
     tags: "carboidratos carboidrato fruta frutas",
     imagem:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmNZEeQSt9oDw&s",
+      "https://images.tcdn.com.br/img/img_prod/450860/muda_de_maca_gala_climas_frios_ou_amenos_1m_enxertadas_566_1_20190611093558.jpg",
   },
   {
     titulo: "Mamão formosa",
@@ -129,10 +129,10 @@ let dados = [
     gorduras: "0.2g",
     fibra: "2.8g",
     indice: "Baixo",
-    link: "https://pt.wikipedia.org/wiki/Mamão",
+    link: "https://pt.wikipedia.org/wiki/Caricaceae",
     tags: "carboidratos carboidrato fruta frutas",
     imagem:
-      "https://encrypted-tbn0.gstatic.com/images?q.g=tbn:ANd9GcRmNZEeQSt9oDw&s",
+      "https://images.tcdn.com.br/img/img_prod/350075/muda_de_mamao_formosa_feita_de_semente_9734_1_20220412114239.jpg",
   },
   {
     titulo: "Pepino japonês",
@@ -144,10 +144,10 @@ let dados = [
     gorduras: "0.1g",
     fibra: "0.6g",
     indice: "Baixo",
-    link: "https://pt.wikipedia.org/wiki/Pepino",
     tags: "carboidratos carboidrato verduras verdura",
+    link: "https://pt.wikipedia.org/wiki/Pepino",
     imagem:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmNZEeQSt9oDw&s",
+      "https://mercadoorganico.com/6261-large_default/pepino-japones-organico-300g-a-400g-osm.jpg",
   },
   {
     titulo: "Tomate longa vida",
@@ -161,7 +161,8 @@ let dados = [
     indice: "Baixo",
     tags: "carboidratos carboidrato verduras verdura",
     imagem:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmNZEeQSt9oDw&s",
+      "https://superpao.vtexassets.com/unsafe/fit-in/720x720/center/middle/https%3A%2F%2Fsuperpao.vtexassets.com%2Farquivos%2Fids%2F428157%2FTomate-Longa-Vida-Kg.png%3Fv%3D638481778640100000",
+    link: "https://pt.wikipedia.org/wiki/Tomate",
   },
   {
     titulo: "Cenoura",
@@ -175,6 +176,7 @@ let dados = [
     indice: "Médio",
     tags: "carboidratos carboidrato verduras verdura",
     imagem:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmNZEeQSt9oDw&s",
+      "https://www.quitandatomio.com.br/upload/408933518-7-beneficios-da-cenoura-para-saude.jpg",
+    link: "https://pt.wikipedia.org/wiki/Cenoura",
   },
 ];
